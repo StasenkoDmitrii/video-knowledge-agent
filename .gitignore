@@ -218,3 +218,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Записи лекций и результаты обработки
+*.mp4
+*.mkv
+*.avi
+*.mov
+*.mp3
+*.wav
+*.m4a
+data/
